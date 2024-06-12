@@ -9,6 +9,4 @@ display_categories: [Universidades, Institutos, Becas]
 horizontal: false
 ---
 
-¿Eres o quieres convertirte en biólogo marino?
-
 [Sitio en construcción]
