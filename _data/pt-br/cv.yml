@@ -1,101 +1,62 @@
-- title: Informações Gerais
+- title: Información General
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
+    - name: Full Name
+      value: Jorge L. Suarez-Caballero
     - name: Idiomas
-      value: Inglês, Alemão
+      value: Español, Inglés, (aprendiendo Japonés)
 
-- title: Educação
+- title: Educación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: Estudiante de doctorado
+      institution: Institute of Science Tokyo, Japón (antes Tokyo Institute of Technology)
+      year: 2021 -
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - Global Engineering for Development, Environment, and Society (GEDES).
+        - School of Environment and Society, Dept. of Transdisciplinary Science and Engineering.
+    - title: Maestría en Biología Marina
+      institution: University of Bremen, Alemania
+      year: 2020
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - Título de tesis "Top-down pressure exerted by microzooplankton and food quality dynamics during the North Sea spring bloom"
+    - title: Licenciatura en Biología
+      institution: Universidad Nacional Autónoma de México, México
+      year: 2018
+      description:
+        - Título de tesis "Análisis de diversidad de moluscos y crustáceos en la playa rocosa de Balzapote, Veracruz, México" (Diversity analysis of mollusks and crustaceans in Balzapote's rocky shore, Veracruz, Mexico).
 
-- title: Experiência
+- title: Conferencias
   type: time_table
   contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Developing an integrated land-ocean-ecosystem model to assess terrestrial anthropogenic impacts on coral reef areas"
+      year: 2024
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
+        - Presentación oral en MSEAS 2024
+        - <a href="https://meetings.pices.int/meetings/international/2024/mseas/scope">Sitio</a> en línea
+
+    - title: "Modeling the effect of terrestrial nutrients on phytoplankton communities in coral reefs from field-based incubation experiments"
+      year: 2024
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - Presentación oral en JpGU 2024
+        - <a href="https://www.jpgu.org/meeting_e2024/">Sitio</a> en línea
 
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
-
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
-
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
-- title: Interesses Acadêmicos
+- title: Intereses Académicos
   type: nested_list
   contents:
-    - title: Tópico 1.
+    - title: Ecología de fitoplancton y microzooplancton
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
+        - Redes tróficas marinas
+        - Ciclos biogeoquímicos
+        - Interacciones inter- e intraespecíficas
+        - Efectos de cambio climático y antropogénicos 
+    - title: Modelos de ecosistemas
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - Modelos de ecosistemas de menor nivel trófico con COAWST
+        - Cuantificación de los efectos de los nutrientes sobre el fitoplancton en zonas de arrecifes de coral
 
-- title: Outros Interesses
+- title: Otros intereses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Buceo (Advanced Open Water)
+    - Fotografía subacuática (<a href="https://www.flickr.com/photos/196057071@N05/">Flickr</a>)
