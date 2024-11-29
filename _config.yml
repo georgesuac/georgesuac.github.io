@@ -114,6 +114,7 @@ zotero_username: # your zotero username
 google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
+openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
@@ -150,19 +151,19 @@ giscus:
   emit_metadata: 0
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Jorge # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: # substack.com
-    rss_url: # https://georgesuac.substack.com/feed
-  - name: # Memorias de un copepodo
-    posts:
-      - url: # https://substack.com/home/post/p-148329907
-        published_date: 2024-08-31
+# external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -297,8 +298,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["photos"] # these tags will be displayed on the front page of your blog
-display_categories: # these categories will be displayed on the front page of your blog
+display_tags: # ["photos"] # these tags will be displayed on the front page of your blog
+display_categories: # ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -386,7 +387,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "es-mx"]
+languages: ["en-us", "pt-br"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
@@ -431,6 +432,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
+enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
@@ -636,9 +638,9 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume_en-us
-    json: #assets/json/resume_en-us.json # it can also be an url
+    json: assets/json/resume_en-us.json # it can also be an url
   - data: resume_es-mx
-    json: #assets/json/resume_es-mx.json # it can also be an url
+    json: assets/json/resume_es-mx.json # it can also be an url
 jsonresume:
   - basics
   - work
