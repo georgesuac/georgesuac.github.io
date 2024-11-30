@@ -1,10 +1,10 @@
 ---
 id: dropdown
 layout: page
-title: submenus
+title: submenú
 nav: true
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: publicações
     permalink: /publications/
