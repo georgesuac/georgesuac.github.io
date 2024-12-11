@@ -1,17 +1,17 @@
 ---
 id: dropdown
 layout: page
-title: submenú
+title: biólogxs mexas🇲🇽
 nav: true
 nav_order: 8
-dropdown: false
+dropdown: true
 children:
-  - title: publicações
-    permalink: /publications/
-  - title: divider
-  - title: projetos
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: recursos
+    permalink: /recursos/
+#  - title: divider
+#  - title: projects
+#    permalink: /projects/
+#  - title: divider
+#  - title: blog
+#    permalink: /blog/
 ---
