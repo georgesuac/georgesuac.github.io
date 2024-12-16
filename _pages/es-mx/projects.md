@@ -3,12 +3,14 @@ page_id: projects
 layout: page
 title: proyectos
 permalink: /projects/
-description: # Uma crescente coleção de seus projetos interessantes.
+description: #
 nav: true
 nav_order: 3
 display_categories: # [work, fun]
 horizontal: false
 ---
+
+Sitio en construcción
 
 <!-- pages/projects.md -->
 <div class="projects">

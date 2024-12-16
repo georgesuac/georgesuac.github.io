@@ -28,8 +28,8 @@ latest_posts: true # includes a list of the newest posts
 <section class="resource-section">
   <h2>🏢 Institutos</h2>
   <ul>
-    <li><a href="https://www.inecol.mx/" target="_blank">Instituto de Ecología (INECOL)</a></li>
-    <li><a href="https://www.ibiologia.unam.mx/" target="_blank">Instituto de Biología, UNAM</a></li>
+    <li><a href="https://www.inecol.mx" target="_blank">Instituto de Ecología (INECOL)</a></li>
+    <li><a href="https://www.ib.unam.mx" target="_blank">Instituto de Biología, UNAM</a></li>
     <li><a href="https://www.inegi.org.mx/" target="_blank">INEGI - Datos ecológicos</a></li>
   </ul>
 </section>
