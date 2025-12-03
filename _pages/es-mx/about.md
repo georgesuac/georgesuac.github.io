@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: sobre mí
 permalink: /
-subtitle: Soy un estudiante de doctorado mexicano en el <a href="http://www.nakamulab.mei.titech.ac.jp">Nakamura Laboratory</a>, Institute of Science Tokyo, Japón.
+subtitle: Técnico de Unidad de Investigación en la <a href="https://www.oist.jp/research/research-units/mbu">Marine Biophysics Unit</a> - Okinawa Institute of Science and Technology (OIST)
 profile:
   align: right
   image: Photo-2.jpg
@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Mi investigación abarca invertebrados marinos, ecología del plancton, ciclos biogeoquímicos y modelos de ecosistemas. Actualmente estoy desarrollando un modelo para entender cómo la descarga de nutrientes afecta las redes tróficas planctónicas en áreas de arrecifes de coral. Mi proyecto de doctorado se centra en las Yaeyama Islands y la Sekisei Lagoon, hogar de la mayor área de arrecifes de coral en Japón.
+Mi investigación abarca invertebrados marinos, ecología del plancton, ciclos biogeoquímicos y modelos de ecosistemas. Actualmente me interesa estudiar cómo la descarga de nutrientes altera la dinámica del fitoplancton, la biogeoquímica y el ciclo del carbono en los ecosistemas de arrecifes coralinos. Utilizando citometría de flujo de alta resolución (high-throughput imaging flow cytometry), investigo los cambios en la composición de las comunidades de fitoplancton y cuantifico su biomasa de carbono para entender cómo los factores ambientales moldean las redes tróficas planctónicas en ambientes marinos tropicales y subtropicales.
 
 Cuando no estoy en el laboratorio, disfruto visitar islas remotas, bucear y la fotografía submarina. ¡Visita mi cuenta de [Flickr](https://www.flickr.com/photos/196057071@N05/) para ver mis aventuras fotográficas!
